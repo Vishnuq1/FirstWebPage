@@ -1,0 +1,39 @@
+.heading{
+    text-align: center;
+    background-color: blueviolet;
+}
+
+
+.links{
+    color: blue;
+    text-align: center;
+}
+.Barsha{
+    color: rgb(185, 35, 35);
+    
+}
+.About{
+    text-align: center;
+}
+p {
+    white-space: nowrap;
+  }
+.Skills{
+    text-align: center;
+    white-space: nowrap;
+}
+.Qualification{
+    text-align: center;
+    /* white-space: nowrap; */
+}
+.project{
+    text-align: center;
+    /* white-space: nowrap; */
+}
+.footer{
+    background-color: rgb(87, 60, 112);
+    color: white;
+}
+.linksend{
+    text-align: center;
+}
